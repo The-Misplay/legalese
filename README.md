@@ -11,3 +11,8 @@ If you notice any typos or would like to suggest any changes, please contribute 
 ## Attribution
 
 These files are modified from the [open-sourced legal documents by Automattic](https://github.com/Automattic/legalmattic) (of WordPress.com), shared under the same Creative Commons license.
+
+
+## Disclaimer
+
+This is not legal advice. Before you use these documents (as-is or with modifications), please consult your lawyer.
